@@ -1,3 +1,55 @@
-.fondoCentro{
+header{
+    position: fixed;
+    width: 100%;
+    background-color:#B0C05D ;
+    color: white;
+    z-index: 1;
+    display: inline;
+}
+.body{
+    background-color:#303134 ;
+}
+a{
+    text-decoration: none !important;
+    color: rgb(0, 0, 0) !important;
 
+}
+.s{
+    background-color:#303134 ;
+}
+.logoMonche{
+    border-radius: 50%;
+    height: 70px;
+    width: 75px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.header2{
+  display: inline;
+}
+.sombraCartas{
+    box-shadow: 2px 2px 20px 2px #9b9a9a;
+}
+.imgmenu{
+    display: inline;
+    box-shadow: 2px 2px 20px 2px #9b9a9a;
+    border-radius: 2%;
+    
+}
+.fondo{
+    background-color: rgb(255, 255, 255);
+    color: #777777;
+    width: 4px;
+    height: 150px;
+    padding: 9%;
+    border-radius: 1%;
+    margin:0% auto;
+    box-shadow: 2px 2px 20px 2px #000000; 
+}
+.sombratextos{
+    text-shadow: 1px 1px 9px;
+}
+.margenesImg{
+    display: inline;
+  margin-left: 1%;
 }
