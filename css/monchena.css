@@ -33,7 +33,7 @@ a{
 .imgmenu{
     display: inline;
     box-shadow: 2px 2px 20px 2px #9b9a9a;
-    border-radius: 2%;
+    border-radius: 4%;
     
 }
 .fondo{
@@ -51,5 +51,16 @@ a{
 }
 .margenesImg{
     display: inline;
-  margin-left: 1%;
+  margin-left: 4%;
+}
+.anclar{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #303134;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
 }
