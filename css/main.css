@@ -1,4 +1,113 @@
-body{
-    background-color: aqua;
-    color: white;
+*{
+    font-family: Arial, Helvetica, sans-serif;
 }
+.header{
+    position: fixed;
+    width: 100%;
+    background-color:#B0C05D ;
+    color: white;
+    z-index: 1;
+    display: inline-block ;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+
+}
+.derechos{
+    margin-top: 4% ;
+
+}
+
+.informacion{
+    margin-top: 6% ;
+    margin-left: 10%;
+ 
+}
+.contactos{
+    margin-top: 6% ;
+    margin-left: 40%;
+}
+
+.fondoCentro{
+    background-color: rgb(255, 255, 255);
+    color: #777777;
+    width: 4px;
+    height: 150px;
+    padding: 9%;
+    border-radius: 1%;
+    margin:0% auto;
+    box-shadow: 2px 2px 20px 2px #000000; 
+}
+.body{
+    background-color:#242526;
+    color: white;
+    width: 100%;
+ 
+}
+.logo{
+   border-radius: 50%;
+   height: 40%;
+   width: 40%;
+   margin-top: 2%;
+   margin-left: 10%;
+}
+.monchito{
+    margin-top: 1%;
+     text-align: center;
+}
+.imgFondo{
+    width: 100%;
+    height: 1%;
+    padding: 26%;
+    background-size: contain;
+  
+
+}
+.monchito2{
+    text-shadow: 12px 12px 12px  #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1000%;
+    text-align: center;
+    color: rgb(180, 82, 1);
+    object-fit:cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.a{
+    background-color:#006414  ;
+}
+
+.s{
+    background-color:#303134 ;
+}
+
+.d{
+    background-color:#B0C05D ;
+}
+
+.f{
+    background-color:#949897 ;
+}
+
+.g{
+    background-color:#242526 ;
+}
+
+
+
+/* #006414  verder oscuro
+#303134  gris oscuro
+#B0C05D verde claro
+#949897 gris claro
+#242526  negro */
