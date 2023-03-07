@@ -1,0 +1,27 @@
+.logo{
+    height: 60px;
+}
+.body{
+    background-color: #242526;
+}
+
+.carta>img{
+width: 50%;
+height: 100%;
+border-radius: 20px;
+
+}
+
+
+.carta{
+    background-color: #303134;
+    width: 60%;
+    height: 100%;
+    margin-left: 10%;
+    margin-top: 6%;
+    border-radius: 20px;
+    
+}
+.card{
+    font-size: xx-large;
+}
