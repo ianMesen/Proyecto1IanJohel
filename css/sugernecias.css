@@ -1,0 +1,14 @@
+.fondoSugerencias{
+    background-color: rgb(104, 104, 104);
+    color: #ffffff;
+    width: 40px;
+    height: 150px;
+    padding: 8%;
+    border-radius: 2%;
+    margin:0% auto;
+    box-shadow: 2px 2px 20px 2px #000000;  
+  
+}
+#centrar{
+    text-align: start;
+}
