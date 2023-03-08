@@ -19,3 +19,11 @@ th>img{
     margin-right: 20px;
 
 }
+.header2{
+    position: fixed;
+    width: 100%;
+    background-color:#33006d ;
+    color: white;
+    z-index: 1;
+    display: inline-block ;
+}
