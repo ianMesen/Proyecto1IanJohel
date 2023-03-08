@@ -7,3 +7,15 @@ th>img{
     height: 50px;
     border-radius: 50%;
 }
+
+.anclar{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #303134;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+}
