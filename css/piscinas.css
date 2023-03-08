@@ -1,0 +1,31 @@
+.headerPiscinas{
+    background-color: rgb(57, 57, 116);
+}
+.titulo{
+    font-size: 300%;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px;
+   
+}
+.logopiscina{
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+}
+.ubiciones{
+    border-radius: 3%;
+    border: 3px solid rgb(0, 0, 0);
+}
+.ubiciones2{
+    border-radius: 3%;
+    border: 3px solid rgb(0, 0, 0);
+    width: 110%;
+}
+img{
+    width: 65%;
+    border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+    object-position: bottom;
+}
+
