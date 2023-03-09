@@ -7,6 +7,9 @@
     position: absolute;
     right: 32%;
 }
+.logo22{
+    border-radius: 50%;
+}
 .header{
     position: fixed;
     width: 100%;
